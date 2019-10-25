@@ -1,0 +1,6 @@
+C:\Users\linds\Desktop\MSSA C#  SQL COURSE MATERIAL\MSSA C#\C# Math App, Calculations, Averages etc\Array Basics\Array\bin\Debug\Array.exe.config
+C:\Users\linds\Desktop\MSSA C#  SQL COURSE MATERIAL\MSSA C#\C# Math App, Calculations, Averages etc\Array Basics\Array\bin\Debug\Array.exe
+C:\Users\linds\Desktop\MSSA C#  SQL COURSE MATERIAL\MSSA C#\C# Math App, Calculations, Averages etc\Array Basics\Array\bin\Debug\Array.pdb
+C:\Users\linds\Desktop\MSSA C#  SQL COURSE MATERIAL\MSSA C#\C# Math App, Calculations, Averages etc\Array Basics\Array\obj\Debug\Array.csprojAssemblyReference.cache
+C:\Users\linds\Desktop\MSSA C#  SQL COURSE MATERIAL\MSSA C#\C# Math App, Calculations, Averages etc\Array Basics\Array\obj\Debug\Array.exe
+C:\Users\linds\Desktop\MSSA C#  SQL COURSE MATERIAL\MSSA C#\C# Math App, Calculations, Averages etc\Array Basics\Array\obj\Debug\Array.pdb
