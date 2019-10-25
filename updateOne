@@ -1,0 +1,38 @@
+using System;
+
+namespace Array
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            HelperMethods helperMethods = new HelperMethods();
+
+
+            ArrayBasics arrayBasics = new ArrayBasics();
+
+
+
+
+
+            Console.WriteLine("Chose an option from the Menu: ");
+
+            Console.ReadLine();
+
+            int o = 3;
+
+            switch (o)
+            {
+                case 1:
+                    arrayBasics.ReadDate();
+                    break;
+                case 2:
+                    arrayBasics.CopyArray();
+                    break;
+                case 3:
+                    break;
+            }
+
+        }
+    }
+}
